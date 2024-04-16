@@ -1,5 +1,5 @@
 # snATAC-seq analysis
-Codes for pooling, integrating, annotating snATAC-seq data, and DAP, and TRN analyses
+Codes for pooling, integrating, annotating snATAC-seq data, and DAP analyses
 
 - combine_atac.R -- combine snATAC-seq matrices from all samples
 - process_atac_non_binary.R -- initial process using standard seurat pipeline with minor midification
