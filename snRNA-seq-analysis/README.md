@@ -8,3 +8,5 @@ Codes for integrating, annotating snRNA-seq data, and DEG, pathway, and survival
 - survival_analysis.R -- survival analyisis
 - harmony_analysis_macrophage.R -- reintegrate and clustering of macrophages
 - macro_ann_sec.R -- annotate macrophage subsets
+- runCycoTalk.R -- run cytotalk for each malignant-macrophage subsets pair
+- plot_cci.R -- summarize and plot cell-cell-interaction results
