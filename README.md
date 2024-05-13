@@ -1,2 +1,3 @@
 # NBL_scMultiomics_Paper
-Codes for preparing manuscript for studying high-risk NBL using longitudinal single-cell multiomics
+This repository contains codes to perform analysis for the manuscript titled "Longitudinal single-cell multiomic atlas of high-risk neuroblastoma reveals mechanisms of therapy resistance".
+
