@@ -1,4 +1,4 @@
 # Preprocessing
-Codes for doublets and ambient rna removal:
+Codes for doublets and ambient rna removal
 
 
